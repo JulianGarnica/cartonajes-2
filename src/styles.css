@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    -webkit-font-smoothing: auto;
+    -moz-font-smoothing: auto;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: auto;
+    text-rendering: optimizeLegibility;
+    font-smooth: always;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+}
+h1 {
+    font-size: 1.5rem;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-primary {
+  background-color: #cdb889;
+}
+
+.background-secondary {
+  background-color: #503524;
+}
+
+.color-primary {
+  color: #cdb889;
+}
+
+.color-secondary {
+  color: #503524;
+}
+
+.logo-entrada {
+  text-align: center !important;
+  align-items: center !important;
+  display: inline;
+  max-height: 300px !important;
+  max-width: 100% !important;
+}
