@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cartonajes-2/static/css/main.2e54f0cc.css",
+    "main.js": "/cartonajes-2/static/js/main.bff3d904.js",
+    "index.html": "/cartonajes-2/index.html",
+    "main.2e54f0cc.css.map": "/cartonajes-2/static/css/main.2e54f0cc.css.map",
+    "main.bff3d904.js.map": "/cartonajes-2/static/js/main.bff3d904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e54f0cc.css",
+    "static/js/main.bff3d904.js"
+  ]
+}
